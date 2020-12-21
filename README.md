@@ -1,0 +1,2 @@
+# StaticRepo
+FIrst Project
